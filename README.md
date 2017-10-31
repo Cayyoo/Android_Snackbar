@@ -46,8 +46,8 @@ Snackbar使用
  */
 ```
 
-![](https://github.com/ykmeory/Android_Snackbar/blob/master/img/addIcon.gif "添加图标")<br/>
-![](https://github.com/ykmeory/Android_Snackbar/blob/master/img/addMultiLayout.gif "添加多布局")<br/>
 ![](https://github.com/ykmeory/Android_Snackbar/blob/master/img/base.gif "基础")<br/>
 ![](https://github.com/ykmeory/Android_Snackbar/blob/master/img/msg.gif "消息")<br/>
+![](https://github.com/ykmeory/Android_Snackbar/blob/master/img/addIcon.gif "添加图标")<br/>
+![](https://github.com/ykmeory/Android_Snackbar/blob/master/img/addMultiLayout.gif "添加多布局")<br/>
 ![](https://github.com/ykmeory/Android_Snackbar/blob/master/img/warningAndErrorMsg.gif "警告和错误消息")
